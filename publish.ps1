@@ -12,7 +12,7 @@ git worktree prune
 # Remove-Item -Recurse -Force .git/worktrees/public/
 
 Write-Output "Checking out gh-pages branch into public"
-git worktree add -B gh-pages ./public origin/gh-pages
+git worktree add -B gh-pages ./public origin/gh-pages --force
 
 Write-Output "Removing existing files"
 Remove-Item -Recurse -Force public/*
