@@ -17,7 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "images/favicon.png"
   description = "Resolving shelf of shame"
   facebook = "https://www.facebook.com/boardgamerweekly"
   twitter = "https://twitter.com/BoardGamerWkly"
