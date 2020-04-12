@@ -15,7 +15,7 @@ Write-Output "Checking out gh-pages branch into public"
 git worktree add -B gh-pages ./public origin/gh-pages --force
 
 Write-Output "Removing existing files"
-Remove-Item -Recurse -Force public/*
+Get-ChildItem -Path public -Include * -Exclude .git -Recurse| ForEach-object {Remove-item -Recurse -path $_.FullName }
 
 Write-Output "Generating site"
 hugo
