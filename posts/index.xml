@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BGW blog</title>
+    <link>https://blog.boardgamerweekly.com/posts/</link>
+    <description>Recent content in Posts on BGW blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>BoardGamerWeekly</copyright>
+    <lastBuildDate>Sun, 12 Apr 2020 01:01:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.boardgamerweekly.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://blog.boardgamerweekly.com/2020/04/introduction/</link>
+      <pubDate>Sun, 12 Apr 2020 01:01:55 +0200</pubDate>
+      
+      <guid>https://blog.boardgamerweekly.com/2020/04/introduction/</guid>
+      <description>Hello and welcome to my attempt of blogging about board gaming hobby. My name is Miroslav Popovic and I&amp;rsquo;m a software developer by trade. Hopefully, this blog will be more productive than the other one about the software development.
+My first foray into the world of modern board gaming happened several years ago, when I discovered board games category on Kickstarter. I quickly became addicted. Now I&amp;rsquo;m a (not so) proud owner of 150+ board games.</description>
+    </item>
+    
+  </channel>
+</rss>
