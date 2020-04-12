@@ -3,7 +3,6 @@ title: "D-Day Dice Pocket"
 description: "A small, but addictive filler game"
 date: 2020-04-12T01:01:55+02:00
 featured_image: reviews/d-day-dice-pocket/d-day-dice-pocket-cover.jpg
-draft: true
 ---
 
 [D-Day Dice Pocket](https://boardgamegeek.com/boardgame/247567/d-day-dice-pocket) is one of the games I backed on [Kickstarter](https://www.kickstarter.com/projects/wordforgegames/d-day-dice-2nd-edition). The Kickstarter campaign was actually for [D-Day Dice: 2nd Edition](https://boardgamegeek.com/boardgame/233208/d-day-dice-second-edition) and D-Day Dice Pocket came in the package on higher pledge levels. I'm yet to try the main D-Day Dice game, but judging from the experience while playing its smaller brother, it might actually be quite fun.

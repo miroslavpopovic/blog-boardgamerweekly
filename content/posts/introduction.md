@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
 date: 2020-04-12T01:01:55+02:00
-draft: true
 ---
 
 Hello and welcome to my attempt of blogging about board gaming hobby. My name is [Miroslav Popovic](https://miroslavpopovic.com/) and I'm a software developer by trade. Hopefully, this blog will be more productive than the other one about the software development.

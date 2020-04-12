@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on BGW blog</title>
+    <link>https://blog.boardgamerweekly.com/reviews/</link>
+    <description>Recent content in Reviews on BGW blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>BoardGamerWeekly</copyright>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.boardgamerweekly.com/reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>D-Day Dice Pocket</title>
+      <link>https://blog.boardgamerweekly.com/reviews/d-day-dice-pocket/</link>
+      <pubDate>Sun, 12 Apr 2020 01:01:55 +0200</pubDate>
+      
+      <guid>https://blog.boardgamerweekly.com/reviews/d-day-dice-pocket/</guid>
+      <description>D-Day Dice Pocket is one of the games I backed on Kickstarter. The Kickstarter campaign was actually for D-Day Dice: 2nd Edition and D-Day Dice Pocket came in the package on higher pledge levels. I&amp;rsquo;m yet to try the main D-Day Dice game, but judging from the experience while playing its smaller brother, it might actually be quite fun.
+D-Day Dice Pocket actually contains two games in one small package - D-Day Dice Battle!</description>
+    </item>
+    
+  </channel>
+</rss>
