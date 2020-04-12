@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "BGW blog"
 copyright = "BoardGamerWeekly"
 theme = "ananke"
-publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
