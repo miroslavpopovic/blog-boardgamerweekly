@@ -9,10 +9,10 @@ Write-Output "Deleting old publication"
 Remove-Item -Recurse -Force public
 New-Item -ItemType Directory -Path public
 git worktree prune
-Remove-Item -Recurse -Force .git/worktrees/public/
+# Remove-Item -Recurse -Force .git/worktrees/public/
 
 Write-Output "Checking out gh-pages branch into public"
-git worktree add -B gh-pages public upstream/gh-pages
+git worktree add -B gh-pages ./public origin/gh-pages
 
 Write-Output "Removing existing files"
 Remove-Item -Recurse -Force public/*
@@ -26,5 +26,5 @@ git add --all
 git commit -m "Publishing to gh-pages (publish.ps1)"
 
 Write-Output "Pushing to github"
-#git push --all
+git push --all
 Set-Location ..
