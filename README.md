@@ -32,9 +32,4 @@ This repository contains source files for [BGW blog](https://blog.boardgamerweek
 
 ## Building output
 
-1. Open `/blog-boardgamerweekly` folder with shell
-2. Run `hugo -d ../blog-boardgamerweekly.github.io`
-3. Go there: `cd ../blog-boardgamerweekly.github.io`
-4. Do commit and push:
-    - `git commit -m 'New version message'`
-    - `git push origin master`
+1. Run `./publish.ps1` script with PowerShell
