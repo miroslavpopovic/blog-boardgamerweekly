@@ -33,7 +33,7 @@ The first problem I had with Battle! is that there's no rules for solo play. Fir
 
 The first several times I have played Battle!, I didn't earn a lot of medals and it took a lot of turns to get to some predefined score. The problem was that I have played Express! before Battle!. In Express!, you can die and lose the game. In Battle!, it's perfectly OK to lose the round/skirmish. You can just focus on getting the medal, and ignoring the Axis dice in the turn. The medals will help you on later turns.
 
-So, solo experience of Battle! is not that good. I will try to play with someone and maybe update this review after. I guess it can be pretty dynamic with 2 or 3 players, with player interaction and racing to get the high score. However, I doubt it will work with higher number of players (there's no upper limit to the number of players), as there are only one set of dice and players need to wait for their turn. But, the skirmish rounds are quite fast, so it might not be the problem.
+So, solo experience of Battle! is not that good. I will try to play with someone and maybe update this review after. I guess it can be pretty dynamic with 2 or 3 players, with player interaction and racing to get the high score. However, I doubt it will work with higher number of players (there's no upper limit to the number of players), as there is only one set of dice and players need to wait for their turn. But, the skirmish rounds are quite fast, so it might not be the problem.
 
 ## D-Day Dice Express!
 
@@ -43,7 +43,7 @@ Unlike Battle!, Express! is a cooperative game for 1-4 players, meaning it has s
 
 Again, the rules are pretty simple and easy to grasp. You chose a beach to conquer during your game and then play 6 sectors on that beach, basically doing a skirmish on each sector. At the start of the game, one player rolls Axis dice with number of dice equals the sector number. Then each player, in its own round, must roll Allies dice and match all Axis symbols. Two re-rolls are possible. If all symbols aren't matched, the game is lost. Players must complete all 6 sectors to win.
 
-In Express!, we also have RWB (red-white-blue) rolls and straights. When rolling any of those, you rally a specialist to your squad. Specialists can be used to modify your dice rolls or conditions for winning a sector. There are specialists adding permanent ability to rolls of all players and specialsts that need to be sacrificed for an effect to trigger. Specialists can also be sacrificed as a sector condition.
+In Express!, we also have RWB (red-white-blue) rolls and straights. When rolling any of those, you rally a specialist to your squad. Specialists can be used to modify your dice rolls or conditions for winning a sector. There are specialists adding permanent ability to rolls of all players and specialists that need to be sacrificed for an effect to trigger. Specialists can also be sacrificed as a sector condition.
 
 ![D-Day Dice Express! - Specialists, RWB and straights](/reviews/d-day-dice-pocket/d-day-dice-express-1.jpg)
 
@@ -53,7 +53,7 @@ Another important thing in Express! are beaches. There are six of them and secto
 
 ### My thoughts
 
-For solo play, I liked Express! game a lot more than Battle!. It's a lot faster. You can play it in up to 10 minutes. There is also a lot more to it, thanks to beaches and beach cards. All the games I have played, I used beach cards and they are really really cool. Some beaches are harder than others, givin you a proper challenge.
+For solo play, I liked Express! game a lot more than Battle!. It's a lot faster. You can play it in up to 10 minutes. There is also a lot more to it, thanks to beaches and beach cards. All the games I have played, I used beach cards and they are really really cool. Some beaches are harder than others, giving you a proper challenge.
 
 One problem I had with Express! is with forgetting the rule for a specific beach section. I.e. on Juno beach, I was constantly forgetting that blue dice cannot be re-rolled during section two, and was quitting and restarting the game because of that. But, that's probably due to my focus, or a lack of it.
 
@@ -67,6 +67,6 @@ Both included games are fun as a solo experience and, I assume, as a multiplayer
 
 At the time of writing, D-Day Dice Pocket has a score of 6.2 on [BGG](https://boardgamegeek.com/boardgame/247567/d-day-dice-pocket). From my solo play, I would give D-Day Dice Battle! 5.5 and D-Day Dice Express! 7.5. My final, overall, score for D-Day Dice Pocket is 7. It might change once I try multiplayer.
 
-Finally, I belive that this D-Dice Pocket is a very good filler game. A big plus is a table presence or a lack of it, as it can easily be played on desk of any size (i.e. work desk), if you protect the dice from falling.
+Finally, I believe that this D-Dice Pocket is a very good filler game. A big plus is a table presence or a lack of it, as it can easily be played on the desk of any size (i.e. work desk) if you protect the dice from falling.
 
 Thanks for reading!
