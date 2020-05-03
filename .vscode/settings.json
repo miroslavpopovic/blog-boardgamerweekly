@@ -2,5 +2,10 @@
     "[markdown]": {
       "editor.quickSuggestions": true,
       "files.trimTrailingWhitespace": false
-    }
+    },
+    "grammarly.userWords": [
+      "Belfaire",
+      "Rugwort",
+      "thinky"
+    ]
 }
