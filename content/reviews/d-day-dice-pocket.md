@@ -1,5 +1,5 @@
 ---
-title: "D-Day Dice Pocket"
+title: "D-Day Dice Pocket Review"
 description: "A small, but addictive filler game"
 date: 2020-04-12T01:01:55+02:00
 featured_image: reviews/d-day-dice-pocket/d-day-dice-pocket-cover.jpg

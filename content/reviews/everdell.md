@@ -1,5 +1,5 @@
 ---
-title: "Everdell"
+title: "Everdell Review"
 description: "A gorgeous card drafting, worker placement game"
 date: 2020-05-03T00:00:00+02:00
 featured_image: reviews/everdell/everdell-cover.jpg
